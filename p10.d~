@@ -24,7 +24,7 @@ void main(){
 	int[] c;
 	c = a ~ b;
 	
-	long k; // intでやろうとすると桁があふれて死ぬ
+	long k;
 	foreach (elem; c){
 		k += elem;
 	}
