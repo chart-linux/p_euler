@@ -1,1 +1,0 @@
-["twenty","thirty","fourty","fifty","sixty","seventy","eighty","ninety"];
